@@ -80,14 +80,6 @@ Me chamo Cauã Guenrick, tenho 22 anos e sou natural de Guanhães, Minas Gerais.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 <!-- <img  Aprendendo
     align="left" 
     alt="SASS" 
