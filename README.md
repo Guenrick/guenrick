@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-Me chamo Cauã Guenrick, tenho 22 anos e sou natural de Guanhães, Minas Gerais. Concluí o ensino médio pelo CEFET-MG, em Belo Horizonte, onde também cursei e concluí o curso técnico em Eletrotécnica. Atualmente, curso Ciência da Computação na UFOP. Gosto muito de tecnologia e, no momento, desenvolvo projetos individuais e em equipe, explorando os conhecimentos adquiridos tanto na universidade quanto em cursos externos.
+Me chamo Cauã Guenrick, tenho 22 anos e sou natural de Guanhães, Minas Gerais. Concluí o ensino médio pelo CEFET-MG, em Belo Horizonte, onde também cursei e concluí o curso técnico em Eletrotécnica. Atualmente, curso Ciência da Computação na UFOP. Gosto muito de tecnologia e, no momento, estou estagiando como engenheiro de software na EloGroup, além de me dedicar em projetos individuais nas horas vagas.
 
 ---
 
